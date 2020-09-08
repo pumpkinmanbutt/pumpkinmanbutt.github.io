@@ -1,0 +1,99 @@
+<!doctype html>
+<html>
+<head>
+    <title>Lt. Aldo Raine's Website</title>
+    <style>
+         body{
+            width:1100px;
+            background:rgb(215,215,255);
+            max-width:95%;
+            margin: auto;
+         }
+         h1{
+             text-align: center;
+             color:rgb(100,0,0);
+             margin: 0;
+         }
+         header h2{
+             text-align: center;
+             font-weight:normal;
+             color:rgb(0,150,175);
+         }
+        header .profile-image:hover{
+            transform: scale(.5) rotate(15deg);
+          
+         }
+        header .profile-image{
+            display:block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%;
+         }
+         section{
+             background:rgb(255,215,215);
+             padding:10px 100px;
+         }
+         section h2{
+             text-align:center;
+             color:rgb(0,100,150);
+         }
+         section p{
+             color:rgb(0,150,50);
+         }
+         article{
+             background:rgb(255,255,255);
+             float:left;
+             width:29.3%;
+             margin:1%;
+             padding:1%;
+             height:200px;
+         }
+         h3{
+             color:rgb(45,45,45);
+         }
+         article p{
+             color:rgb(75,75,75);
+         }
+         li{
+             color:rgb(75,75,75);
+         }
+         footer{
+             text-align: center;
+             background:rgb(175,175,175);
+             clear:left;
+             padding:25px;
+         }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="https://qph.fs.quoracdn.net/main-qimg-5f42d3c37ad7ad0501f0674f7e0b3af3-c"
+        alt="Pic of Lt Aldo Raine" class="profile-image">
+        <h1>Lt. Aldo Raine's Website</h1>
+        <h2>Descendant of the Mountain Man Jim Bridger</h2>
+    </header>
+    <section>
+        <h2>I need 8 Jewish American Soldiers!</h2>
+        <p>Now, y’all might’ve heard rumors about the armada happening soon. Well, we’ll be leaving a little earlier. We’re gonna be dropped into France, dressed as civilians. And once we’re in enemy territory, as a bushwhackin’ guerrilla army, we’re gonna be doin’ one thing and one thing only… killin’ Nazis. Now, I don’t know about y’all, but I sure as hell didn’t come down from the goddamn Smoky Mountains, cross five thousand miles of water, fight my way through half of Sicily and jump out of a fuckin’ air-o-plane to teach the Nazis lessons in humanity. Nazi ain’t got no humanity. They’re the foot soldiers of a Jew-hatin’, mass murderin’ maniac and they need to be dee-stroyed. That’s why any and every every son of a bitch we find wearin’ a Nazi uniform, they’re gonna die.</p>
+    </section>
+    <article>
+        <h3>My Qualifications</h3>
+        <p>Little injun in me</p>
+    </article>
+    <article>
+        <h3>Battle Plan</h3>
+        <ul>
+            <li><a href="https://www.azquotes.com/quote/1496213">Apache Resistance</a></li>
+            <li>Be cruel to Germans</li>
+            <li>Leave evidence of cruelty so Germans know who we are</li>
+        </ul>
+    </article>
+    <article>
+        <h3>Your Debit</h3>
+        <p>100 Nazi Scalps</p>
+    </article>
+    <footer>
+        Powered by PumpkinMan Industries Worldwide
+    </footer>
+</body>
+</html>
